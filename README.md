@@ -1,0 +1,1 @@
+This is a hardware implementation of the UART protocol using the HDL language Verilog.
