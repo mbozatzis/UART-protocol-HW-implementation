@@ -1,3 +1,4 @@
+# UART protocol HW implementation
 This is a hardware implementation of the UART protocol using the HDL programming language Verilog. The words transferred from the UART channel will be displayed in four 7-segment LED displays.
 
 The objectives of this project are:
